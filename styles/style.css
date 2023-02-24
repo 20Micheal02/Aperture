@@ -52,7 +52,7 @@ li {
 
 .characteristics {
     display: flex;
-    justify-content: end;
+    justify-content: flex-end;
 }
 
 .characteristics__img {
