@@ -453,6 +453,7 @@ li {
     border-radius: 11px;
     height: 30px;
     width: 63px;
+    border: none;
 }
 
 .footer__wrapper:nth-child(3) {
